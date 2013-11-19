@@ -1,6 +1,6 @@
 //
-//  FlopGameTests.m
-//  FlopGameTests
+//  VersusFlopGameTests.m
+//  VersusFlopGameTests
 //
 //  Created by Haoero on 13-11-17.
 //  Copyright (c) 2013年 Haoero. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface FlopGameTests : XCTestCase
+@interface VersusFlopGameTests : XCTestCase
 
 @end
 
-@implementation FlopGameTests
+@implementation VersusFlopGameTests
 
 - (void)setUp
 {
